@@ -26,4 +26,4 @@
 
 ### Top Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TkachukRR&layout=compact)](https://github.com/avreliakotta)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TkachukRR&layout=compact)](https://github.com/tkachukrr)

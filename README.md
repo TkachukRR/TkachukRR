@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&duration=3000&pause=1000&color=D97706&width=520&lines=Hi%2C+I'm+Roman+%F0%9F%91%8B;Frontend+Engineer;Angular+%C2%B7+Ionic+%C2%B7+TypeScript;Building+web+%26+mobile+apps)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&duration=3000&pause=1000&color=D97706&width=520&lines=Hi%2C+I'm+Roman+%F0%9F%91%8B;Software+Engineer;Angular+%C2%B7+Ionic+%C2%B7+TypeScript;Building+web+%26+mobile+apps)](https://git.io/typing-svg)
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=TkachukRR&color=d97706&style=flat-square)
@@ -7,7 +7,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-TkachukRR-d97706?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/TkachukRR)
 [![Telegram](https://img.shields.io/badge/Telegram-Chat-d97706?style=flat-square&logo=telegram)](https://t.me/TkachukRR)
-[![CV](https://img.shields.io/badge/CV-Online-d97706?style=flat-square&logo=googlechrome)](https://cv-roman-tkachuk-developer.netlify.app/)
+[![CV](https://img.shields.io/badge/CV-Online-d97706?style=flat-square&logo=googlechrome)](https://cv-software-engineer-roman-tkachuk.netlify.app/)
 
 ### Stack
 
